@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HaGreve</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="strikes">Strikes !!!</string>
+    <string name="action_settings">Settings</string>
+</resources>
